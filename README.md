@@ -95,10 +95,10 @@ plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Histogram Equalized');
 ```
 
 ### Developed By:
-**Name:** PRIYANKA P
+**Name:** INDHU V
 
 ### Register No:
-212224230212
+212225040132
 ---
 
 ##  Output
